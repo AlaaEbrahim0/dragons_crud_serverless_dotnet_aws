@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddDragon", "AddDragon\AddDragon.csproj", "{36549C70-2A76-49A2-BDE4-1F8D17FBE737}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListDragons", "ListDragons\ListDragons.csproj", "{532232C4-BDB3-45E0-99CB-9886562DCB88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidateDragon", "ValidateDragon\ValidateDragon.csproj", "{6205AE06-D50E-423A-B4E2-606959CE4E68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwsModels", "AwsModels\AwsModels.csproj", "{D2F3522F-F58E-461C-96B5-CBA962565B12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36549C70-2A76-49A2-BDE4-1F8D17FBE737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36549C70-2A76-49A2-BDE4-1F8D17FBE737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36549C70-2A76-49A2-BDE4-1F8D17FBE737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36549C70-2A76-49A2-BDE4-1F8D17FBE737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532232C4-BDB3-45E0-99CB-9886562DCB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532232C4-BDB3-45E0-99CB-9886562DCB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532232C4-BDB3-45E0-99CB-9886562DCB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532232C4-BDB3-45E0-99CB-9886562DCB88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6205AE06-D50E-423A-B4E2-606959CE4E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6205AE06-D50E-423A-B4E2-606959CE4E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6205AE06-D50E-423A-B4E2-606959CE4E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6205AE06-D50E-423A-B4E2-606959CE4E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F3522F-F58E-461C-96B5-CBA962565B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F3522F-F58E-461C-96B5-CBA962565B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F3522F-F58E-461C-96B5-CBA962565B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F3522F-F58E-461C-96B5-CBA962565B12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79DA0EE5-1BA3-4872-8790-E48C4C492E1D}
+	EndGlobalSection
+EndGlobal
